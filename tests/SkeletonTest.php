@@ -2,10 +2,10 @@
 
 namespace YiiContribTest\Skeleton;
 
-use PHPUnit_Framework_TestCase;
+use PHPUnit\Framework\TestCase;
 use YiiContrib\Skeleton\Skeleton;
 
-class SkeletonTest extends PHPUnit_Framework_TestCase
+class SkeletonTest extends TestCase
 {
     public function testInstance()
     {
